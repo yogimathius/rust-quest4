@@ -10,7 +10,6 @@ fn main() {
             }
         }
         None => {
-            println!("Please provide an argument.");
             return;
         }
     }
