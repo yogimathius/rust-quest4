@@ -2,19 +2,16 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+Basic rust exercises
 
 ## Description
-TODO - How have you solved the problem?
+Basic rust exercises
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+Basic rust exercises
 
 ## Usage
-TODO - How does it work?
-```
-./my_project argument1 argument2
-```
+Basic rust exercises
 
 ### The Core Team
 
