@@ -39,6 +39,6 @@ fn volcano_location(volcano: &str) -> Result<&str, &str> {
     } else if usa_volcanoes.contains(&volcano) {
         Ok("USA")
     } else {
-        Err("Volcano not found")
+        Err("Not in database")
     }
 }
